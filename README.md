@@ -1,0 +1,2 @@
+# CoreProtect-Japanese
+マインクラフトのプラグインCoreProtectの日本語化ファイル
