@@ -1,10 +1,24 @@
-<h1 align="center">CoreProtect-Japanese okame486</h1>
-<h3 align="center">CoreProtectを日本語にするためのファイルです</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# CoreProtect-Japanese
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+CoreProtectを日本語にするためのファイルです
+
+
+## 導入方法
+
+サーバーファイルにある`/plugins/CoreProtect/`
+
+内の`config.yml` `language.yml`を置き換えてください
+
+再度サーバーを起動すれば日本語化されます
+
+
+## 
+
+![App Screenshot](https://cdn.discordapp.com/attachments/1046015465639653378/1060362117557014648/install.gif)
+
+
+## 注意事項
+
+`Confiig.yml`はデフォルトのConfigを翻訳しています。置き換えるとあらかじめ設定していたConfigがデフォルトに置き換わりますので注意してください
 
